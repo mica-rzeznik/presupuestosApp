@@ -1,0 +1,20 @@
+[
+    {
+        "Codigo": "106790001000031",
+        "Detalle": "AYE-Ácidos grasos-Alimentos y jabones",
+        "Arancel": 9400,
+        "Caracteristica": "GC-FID- Basado en AOCS Ce 2b-11:2017 e ISO 12966-4:2015. (Para alimentos en gral, hidrólisis alcalina) y Basado en AOCS Ce 2c-11:2017 e ISO 12966-4:2015. (Para aceites encapsulados, acidos grasos monocarboxílicos, extrusados de perros y gatos y alimentos basados en avena, hidrólisis ácida/alcalina)."
+    },
+    {
+        "Codigo": "106790001000060",
+        "Detalle": "AYE-Vitamina A -Alimentos",
+        "Arancel": 14200,
+        "Caracteristica": "Método AOAC  y cuantificación por HPLC   (Saponificacion con KOH, extraccion con hexano y cuantificacion por HPLC con detector de fluorescencia por fase normal)."
+    },
+    {
+        "Codigo": "106790001000063",
+        "Detalle": "AYE-Vitaminas B12-Alimentos",
+        "Arancel": 35000,
+        "Caracteristica": "Método AOAC 2014.02"
+    }
+]
